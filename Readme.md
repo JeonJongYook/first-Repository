@@ -6,3 +6,14 @@
 
 ### 저는 Front-end 개발자가 되고 싶습니다.
 ### 저는 마이스터, 특성화, 특수목적고 가이드북을 개발하고 싶습니다.
+### 저는 50~60시간을 투자할 수 있을것 같습니다.
+
+
+
+
+#### 심심해서 초간단하게 짠 Python Code 
+
+```python
+
+print("Hello, My name is JeonJongYook")
+```
